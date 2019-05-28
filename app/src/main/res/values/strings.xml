@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">网格操作实例</string>
+    <string name="tv1">戴誉琪的网格实验</string>
+    <string name="tv2">用户名：</string>
+    <string name="tv3">密码：</string>
+    <string name="tv4">信息显示</string>
+    <string name="btn1">清空</string>
+    <string name="btn2">登陆</string>
+</resources>
